@@ -1,0 +1,6 @@
+33%
+localhost:54999
+What is the sum for last 1 integers?
+What is the sum for last 10 integers?
+What is the sum for last 50 integers?
+end
